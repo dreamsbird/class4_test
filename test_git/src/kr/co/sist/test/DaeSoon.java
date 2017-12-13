@@ -7,3 +7,4 @@ public class DaeSoon {
 		System.out.println("홍기야 요강좀 가져다줘!!"); 
 	}//main
 }//class
+ 
